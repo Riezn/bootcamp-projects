@@ -1,0 +1,7 @@
+Dataset
+https://www.kaggle.com/datasets/mirichoi0218/insurance
+
+Deployment
+https://judan-ftds-009-p1m2-fe.herokuapp.com/
+
+https://judan-ftds-009-p1m2-be.herokuapp.com/predict
