@@ -1,0 +1,5 @@
+Dataset:
+https://www.kaggle.com/blastchar/telco-customer-churn
+
+Deployment:
+https://covid-sentiment-ftds009.herokuapp.com/
