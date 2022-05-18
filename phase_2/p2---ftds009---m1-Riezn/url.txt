@@ -1,0 +1,6 @@
+Dataset:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Deployment:
+https://p2m1-backend-judan.herokuapp.com/
+https://p2m1-front-judan.herokuapp.com/
